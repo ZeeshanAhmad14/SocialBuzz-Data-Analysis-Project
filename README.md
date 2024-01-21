@@ -1,4 +1,4 @@
-My Name is Zeeshan Ahmad and I am presenting you the brief summary of this project. I was assigned this task on Accenture Virtual Intership stimulation
+My Name is Zeeshan Ahmad and I am presenting you the brief summary of this project. I was assigned this task on "Accenture Virtual Intership"
 stimulation program by "forage" . 
 
 The project is related to a company named "Social Buzz".In this project I had tried to solve the Business problem and 
